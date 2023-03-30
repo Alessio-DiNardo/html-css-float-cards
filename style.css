@@ -20,10 +20,16 @@ main{
     text-align: center;
 }
 
+
+
 h1{
     color: rgb(160, 11, 86);
     margin: 2rem 2rem;
     font: 1.2em "arial black";
+}
+
+h2{
+    display: inline-block;
 }
 
 .float-left{
@@ -31,9 +37,13 @@ h1{
 }
 
 div.column-third{
-    border: 3px magenta solid;
-    height: 300px;
+    border: 6px white solid;
+    height: 100px;
     width: 33.33%;
     margin-top: 2rem;
+    background-color: rgb(1, 1, 19);
 }
 
+img{
+    height: 88px;
+}

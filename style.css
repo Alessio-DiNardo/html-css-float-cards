@@ -54,7 +54,10 @@ img{
 
 #name{
     color: white;
-    padding-top: 0.7rem;
-    margin-left: 0.7rem;
+    
     line-height: 25px;
+}
+
+#email{
+    color: rgb(52, 126, 223);
 }

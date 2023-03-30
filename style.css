@@ -20,7 +20,10 @@ main{
     text-align: center;
 }
 
-
+.email{
+    color: rgb(16, 132, 153);
+    font-size: 15px;
+}
 
 h1{
     color: rgb(160, 11, 86);
@@ -46,4 +49,11 @@ div.column-third{
 
 img{
     height: 88px;
+    margin-right: 0.7rem;
+}
+
+#name{
+    color: white;
+    padding-top: 0.7rem;
+    margin-left: 0.7rem;
 }

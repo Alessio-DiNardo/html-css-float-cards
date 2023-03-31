@@ -52,7 +52,7 @@ img{
     margin-right: 0.7rem;
 }
 
-#name{
+#name,#job{
     color: white;
     margin-top: 5px;
     line-height: 25px;
